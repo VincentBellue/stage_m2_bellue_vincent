@@ -1,0 +1,35 @@
+Lemme du collocatif	Compositionnel	Genre de la base	Occurrences de la base
+
+plomb	Non	masculin	20
+plomb	Oui	féminin	13
+plomb	Oui	masculin	7
+
+grand	Non	masculin	17
+grand	Oui	masculin	14
+grand	Oui	féminin	6
+grand	Non	féminin	3
+
+profond	Non	masculin	20
+profond	Oui	masculin	9
+profond	Oui	féminin	11
+
+gros	Non	masculin	10
+gros	Oui	féminin	4
+gros	Oui	masculin	6
+
+éléphant	Non	féminin	10
+éléphant	Oui	masculin	3
+éléphant	Oui	féminin	7
+
+lourd	Non	masculin	10
+lourd	Oui	masculin	10
+
+long	Non	féminin	10
+long	Oui	masculin	4
+long	Oui	féminin	6
+
+Décompte Total	Compositionnel	Genre de la base	Occurrences de la base
+	Non	féminin	23
+	Oui	féminin	47
+	Non	masculin	77
+	Oui	masculin	53

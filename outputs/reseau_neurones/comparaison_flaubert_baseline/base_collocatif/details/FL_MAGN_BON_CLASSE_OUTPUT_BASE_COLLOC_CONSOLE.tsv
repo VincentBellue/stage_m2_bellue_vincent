@@ -1,0 +1,462 @@
+Corpus numéro : 1			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colère saine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : colères saines
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : colères saines
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : vie saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : personne saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : peau saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : nourriture saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : chair saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : écorces saines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : dents saines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : bouche saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : jambe saine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : feuilles saines
+accuracy modèle : 60.0 % 	 accuracy système baseline : 50.0 % 		
+			
+Corpus numéro : 2			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : observateur fin
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : bretelles fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : peau fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : couche fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : robe fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lames fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : feuilles fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : moustaches fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : laine fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : tissu fin
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : matelas fin
+accuracy modèle : 65.0 % 	 accuracy système baseline : 90.0 % 		
+			
+Corpus numéro : 3			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : ouïe fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : moustache fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : membrane fine
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : sandales fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : pattes fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lunettes fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : bandes fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : mouchoir fin
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : collier fin
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cigarettes fines
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : stylet fin
+accuracy modèle : 55.0 % 	 accuracy système baseline : 35.0 % 		
+			
+Corpus numéro : 4			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : idée brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lèvres brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : veine brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : épées brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : boule brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : constellations brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : tissu brillant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cuirasse brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : sphère brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : halo brillant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : pièces brillantes
+accuracy modèle : 100.0 % 	 accuracy système baseline : 40.0 % 		
+			
+Corpus numéro : 5			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élève brillant
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : élève brillante
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : élèves brillants
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élève brillant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élèves brillants
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : élève brillante
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : élève brillante
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : élève brillant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élèves brillants
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élève brillant
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : éclats brillants
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : dents brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lunettes brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : chaussures brillantes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : cristaux brillants
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lame brillante
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lune brillante
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : métal brillant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : anneau brillant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : aiguilles brillantes
+accuracy modèle : 75.0 % 	 accuracy système baseline : 65.0 % 		
+			
+Corpus numéro : 6			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douche bonne
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : père bon
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : élèves bons
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mère bonne
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : nageur bon
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : tireur bon
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : étudiants bons
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : professeure bonne
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : commandant bon
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : jardinier bon
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : comédienne bonne
+accuracy modèle : 5.0 % 	 accuracy système baseline : 15.0 % 		
+			
+Corpus numéro : 7			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chanteur grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : cadres grands
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : lévrier grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : nef grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : portefeuille grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : figurines grandes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : salon grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : fenêtres grandes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : carnets grands
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : mains grandes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : arc grand
+accuracy modèle : 75.0 % 	 accuracy système baseline : 70.0 % 		
+			
+Corpus numéro : 8			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journalistes grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journalistes grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journaliste grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : journalistes grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journalistes grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journalistes grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journaliste grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : journaliste grande
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journaliste grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : journaliste grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : salle grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : arbres grands
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : escalier grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : supermarché grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chapiteau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : écurie grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chapeau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couteau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : îles grandes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : panneaux grands
+accuracy modèle : 95.0 % 	 accuracy système baseline : 60.0 % 		
+			
+Corpus numéro : 9			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : couple beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : marquise belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : princesse belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chevaux beaux
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : violon beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : baron beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : fleurs belles
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : maison belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : visage beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : pantalon beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bateau beau
+accuracy modèle : 50.0 % 	 accuracy système baseline : 70.0 % 		
+			
+Corpus numéro : 10			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : temps beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : salon beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : garçon beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : robe belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bracelet beau
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sièges beaux
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : feuillages beaux
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cathédrale belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : seins beaux
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : table belle
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chapeau beau
+accuracy modèle : 55.0 % 	 accuracy système baseline : 65.0 % 		
+			
+Corpus numéro : 11			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : soleil plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : balles plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lamelles plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : balle plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : noyaux plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cartouches plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : billes plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : boulet plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : bille plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : plaque plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : coupole plomb
+accuracy modèle : 90.0 % 	 accuracy système baseline : 90.0 % 		
+			
+Corpus numéro : 12			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : silence plomb
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : urne plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : tablette plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : tuyau plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : cercueil plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cage plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : gants plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : masse plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : lingot plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : morceau plomb
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : armatures plomb
+accuracy modèle : 95.0 % 	 accuracy système baseline : 75.0 % 		
+			
+Corpus numéro : 13			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : vents grands
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vent grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : cheval grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : appartement grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : lit grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : seau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : tableau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : table grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : parking grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : librairie grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bureau grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : miroir grand
+accuracy modèle : 60.0 % 	 accuracy système baseline : 60.0 % 		
+			
+Corpus numéro : 14			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : ami grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : amie grande
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : amis grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : ami grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : amie grande
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : ami grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : amis grands
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : ami grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : ami grand
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : amie grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : manteaux grands
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : surface grande
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : mur grand
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : maison grande
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : femme grande
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : parc grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : poignard grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chêne grand
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : tentes grandes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sacs grands
+accuracy modèle : 85.0 % 	 accuracy système baseline : 55.0 % 		
+			
+Corpus numéro : 15			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : dégoût profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : fossé profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : galeries profondes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : gorges profondes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : puits profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : fosse profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : grotte profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : faille profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : caverne profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : forêt profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cavité profonde
+accuracy modèle : 90.0 % 	 accuracy système baseline : 90.0 % 		
+			
+Corpus numéro : 16			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : sommeil profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : lac profond
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : tranchées profondes
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : canyons profonds
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : crique profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sous-sol profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : trous profonds
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : remous profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sillon profond
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : douve profonde
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : puisard profond
+accuracy modèle : 80.0 % 	 accuracy système baseline : 65.0 % 		
+			
+Corpus numéro : 17			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrins gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrin gros
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : chagrins gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lunettes grosses
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : boutons gros
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 1	base + collocatif : chevalière grosse
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : piquets gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : objet gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : vaisseau gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : poche grosse
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bacs gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : flocons gros
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : cloches grosses
+accuracy modèle : 85.0 % 	 accuracy système baseline : 70.0 % 		
+			
+Corpus numéro : 18			
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : mémoires éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : mémoire éléphant
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : troupeau éléphants
+résultat attendu : 1	résultat obtenu : 0	résultat baseline : 0	base + collocatif : groupe éléphants
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : bouse éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : pattes éléphants
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : défenses éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : trompe éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : crânes éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : peau éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : dents éléphant
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : tête éléphant
+accuracy modèle : 85.0 % 	 accuracy système baseline : 35.0 % 		
+			
+Corpus numéro : 19			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bilan lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : équipement lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : plateau lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : cartable lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : manteau lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : ouvrage lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bouclier lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : portail lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : revolver lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : crâne lourd
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : sac lourd
+accuracy modèle : 60.0 % 	 accuracy système baseline : 50.0 % 		
+			
+Corpus numéro : 20			
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lettres longues
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lettres longues
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lettres longues
+résultat attendu : 0	résultat obtenu : 1	résultat baseline : 1	base + collocatif : lettres longues
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 0	résultat obtenu : 0	résultat baseline : 1	base + collocatif : lettre longue
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : doigts longs
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : mèches longues
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : chaussette longue
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : bras long
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : tables longues
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : guibolles longues
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : moustaches longues
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : siège long
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 0	base + collocatif : mur long
+résultat attendu : 1	résultat obtenu : 1	résultat baseline : 1	base + collocatif : queue longue
+accuracy modèle : 75.0 % 	 accuracy système baseline : 30.0 % 		
+			
+accuracy totale du modèle : 72.0 %			
+accuracy totale du système baseline : 59.0 %			

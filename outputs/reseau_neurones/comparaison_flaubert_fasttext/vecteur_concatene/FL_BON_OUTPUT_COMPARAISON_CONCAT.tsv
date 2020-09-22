@@ -1,0 +1,13 @@
+	FL_BON_OUTPUT.tsv	FL_BON_OUTPUT_VEC_STATIQUE.tsv
+Groupe	Accuracy vecteurs FlauBERT	Accuracy vecteurs FastText
+1	70.0	45.0
+2	60.0	50.0
+3	50.0	50.0
+4	80.0	70.0
+5	95.0	50.0
+6	55.0	50.0
+7	50.0	50.0
+8	90.0	95.0
+9	55.0	100.0
+10	10.0	25.0
+Total	61.5	58.5

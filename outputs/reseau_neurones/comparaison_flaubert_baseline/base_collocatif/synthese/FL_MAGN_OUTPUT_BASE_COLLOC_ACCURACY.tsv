@@ -1,0 +1,13 @@
+FL_MAGN_OUTPUT.tsv		
+Groupe	accuracy modèle	accuracy système baseline
+1	95.0	90.0
+2	100.0	75.0
+3	50.0	60.0
+4	85.0	55.0
+5	85.0	90.0
+6	75.0	65.0
+7	85.0	70.0
+8	75.0	35.0
+9	75.0	50.0
+10	55.0	30.0
+total	78.0	62.0

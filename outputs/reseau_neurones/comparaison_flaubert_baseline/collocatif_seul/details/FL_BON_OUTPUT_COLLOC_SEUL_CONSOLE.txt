@@ -1,0 +1,232 @@
+Corpus numéro : 1
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : colère saine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : colères saines
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : colères saines
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : vie saine
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : personne saine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : peau saine
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : nourriture saine
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : chair saine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : écorces saines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : dents saines
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : bouche saine
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : jambe saine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : feuilles saines
+accuracy modèle : 60.0 %         accuracy système baseline : 50.0 %
+
+Corpus numéro : 2
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : observateur fin
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : bretelles fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : peau fine
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : couche fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : robe fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lames fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : feuilles fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : moustaches fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : laine fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : tissu fin
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : matelas fin
+accuracy modèle : 65.0 %         accuracy système baseline : 90.0 %
+
+Corpus numéro : 3
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couple beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : marquise belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : princesse belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : chevaux beaux
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : violon beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : baron beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : fleurs belles
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : maison belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : visage beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : pantalon beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : bateau beau
+accuracy modèle : 50.0 %         accuracy système baseline : 70.0 %
+
+Corpus numéro : 4
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : journalistes grands
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : journalistes grands
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : journaliste grand
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : journalistes grands
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : journalistes grands
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : journalistes grands
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : journaliste grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : journaliste grande
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : journaliste grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : journaliste grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : salle grande
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : arbres grands
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : escalier grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : supermarché grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : chapiteau grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : écurie grande
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : chapeau grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : couteau grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : îles grandes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : panneaux grands
+accuracy modèle : 80.0 %         accuracy système baseline : 60.0 %
+
+Corpus numéro : 5
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : idée brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lèvres brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : veine brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : épées brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : boule brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : constellations brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : tissu brillant
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : cuirasse brillante
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : sphère brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : halo brillant
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : pièces brillantes
+accuracy modèle : 95.0 %         accuracy système baseline : 40.0 %
+
+Corpus numéro : 6
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élève brillant
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : élève brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élèves brillants
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élève brillant
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : élèves brillants
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : élève brillante
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : élève brillante
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : élève brillant
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élèves brillants
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élève brillant
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : éclats brillants
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : dents brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lunettes brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : chaussures brillantes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : cristaux brillants
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lame brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lune brillante
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : métal brillant
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : anneau brillant
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : aiguilles brillantes
+accuracy modèle : 90.0 %         accuracy système baseline : 65.0 %
+
+Corpus numéro : 7
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : ouïe fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : moustache fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : membrane fine
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : sandales fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : pattes fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : lunettes fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : bandes fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : mouchoir fin
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : collier fin
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : cigarettes fines
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : stylet fin
+accuracy modèle : 50.0 %         accuracy système baseline : 35.0 %
+
+Corpus numéro : 8
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : chanteur grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : cadres grands
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : lévrier grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : nef grande
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : portefeuille grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : figurines grandes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : salon grand
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : fenêtres grandes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : carnets grands
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : mains grandes
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : arc grand
+accuracy modèle : 95.0 %         accuracy système baseline : 70.0 %
+
+Corpus numéro : 9
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 0   base + collocatif : temps beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : salon beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : garçon beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : robe belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : bracelet beau
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : sièges beaux
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : feuillages beaux
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : cathédrale belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : seins beaux
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 1   base + collocatif : table belle
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : chapeau beau
+accuracy modèle : 65.0 %         accuracy système baseline : 65.0 %
+
+Corpus numéro : 10
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 0     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 0    résultat obtenu : 1     résultat baseline : 1   base + collocatif : douche bonne
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : père bon
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : élèves bons
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : mère bonne
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : nageur bon
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : tireur bon
+résultat attendu : 1    résultat obtenu : 1     résultat baseline : 0   base + collocatif : étudiants bons
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : professeure bonne
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : commandant bon
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 0   base + collocatif : jardinier bon
+résultat attendu : 1    résultat obtenu : 0     résultat baseline : 1   base + collocatif : comédienne bonne
+accuracy modèle : 15.0 %         accuracy système baseline : 15.0 %
+
+accuracy totale du modèle : 66.5 %
+accuracy totale du système baseline : 56.0 %

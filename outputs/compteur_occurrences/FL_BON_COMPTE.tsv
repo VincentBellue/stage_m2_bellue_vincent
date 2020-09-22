@@ -1,0 +1,33 @@
+Lemme du collocatif	Compositionnel	Genre de la base	Occurrences de la base
+
+sain	Non	féminin	10
+sain	Oui	féminin	10
+
+fin	Non	masculin	10
+fin	Oui	féminin	15
+fin	Oui	masculin	5
+
+beau	Non	masculin	20
+beau	Oui	féminin	7
+beau	Oui	masculin	13
+
+grand	Non	masculin	19
+grand	Non	féminin	1
+grand	Oui	féminin	7
+grand	Oui	masculin	13
+
+brillant	Non	féminin	13
+brillant	Oui	féminin	14
+brillant	Oui	masculin	6
+brillant	Non	masculin	7
+fin	Non	féminin	10
+
+bon	Non	féminin	10
+bon	Oui	masculin	7
+bon	Oui	féminin	3
+
+Décompte Total	Compositionnel	Genre de la base	Occurrences de la base
+	Non	féminin	44
+	Oui	féminin	56
+	Non	masculin	56
+	Oui	masculin	44

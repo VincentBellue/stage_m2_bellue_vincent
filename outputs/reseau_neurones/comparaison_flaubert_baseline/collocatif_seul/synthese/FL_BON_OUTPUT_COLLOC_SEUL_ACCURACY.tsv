@@ -1,0 +1,13 @@
+FL_BON_OUTPUT.tsv		
+Groupe	accuracy modèle	accuracy système baseline
+1	60.0	50.0
+2	65.0	90.0
+3	50.0	70.0
+4	80.0	60.0
+5	95.0	40.0
+6	90.0	65.0
+7	50.0	35.0
+8	95.0	70.0
+9	65.0	65.0
+10	15.0	15.0
+total	66.5	56.0
